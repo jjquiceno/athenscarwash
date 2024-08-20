@@ -1,6 +1,6 @@
 const duluth = new Typed('.duluth', {
     strings: [
-        '<p>DULUTH CAR WASH</p>'
+        '<p>ATHENS CAR WASH</p>'
     ],
 
     typeSpeed: 80,
