@@ -311,7 +311,7 @@ textarea:valid ~ .label{
     backdrop-filter: blur(15px);
     border-radius: 30px;
 }
-.duluth2{
+.athens2{
     font-family: jet-black;
     font-size: 4rem;
     color: white;
@@ -451,7 +451,7 @@ textarea:valid ~ .label{
     .relativeposition{
         height: 80vh;
     }
-    .duluth{
+    .athens{
         display: none;
     }
 }

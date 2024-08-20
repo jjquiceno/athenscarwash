@@ -1,6 +1,6 @@
-const duluth2 = new Typed('.duluth2', {
+const duluth = new Typed('.athens', {
     strings: [
-        '<p>MEET THE TEAM THAT WORKS FOR YOU AND YOUR CAR.</p>'
+        '<p>ATHENS CAR WASH</p>'
     ],
 
     typeSpeed: 80,

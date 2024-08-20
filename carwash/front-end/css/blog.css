@@ -170,7 +170,7 @@ body{
 .services{
     text-align: center;
 }
-.duluth2{
+.athens2{
     font-family: jet-black;
     font-size: 4rem;
     color: white;
@@ -430,10 +430,10 @@ body{
         justify-content: center;
         grid-template-columns: 80%;
     }
-    .duluth{
+    .athens{
         display: none;
     }
-    .duluth2{
+    .athens2{
         font-size: 2rem;
     }
     .info-letras{

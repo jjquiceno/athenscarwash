@@ -13,7 +13,7 @@ const type = new Typed('.typed', {
     cursorChar: ' ',
     contentType: 'html',
 });
-const duluth = new Typed('.duluth', {
+const duluth = new Typed('.athens', {
     strings: [
         '<p>ATHENS CAR WASH</p>'
     ],
