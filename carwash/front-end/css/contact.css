@@ -292,7 +292,7 @@ textarea:valid ~ .label{
 /* ----------------------------------------------estilos del banner inicial--------------------------------------- */
 .home{
     height: 50vh;
-    background-image: url("../img/galeria/DSC00027.jpg");
+    background-image: url("../img/galeria/cw-photos-11.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -386,7 +386,7 @@ textarea:valid ~ .label{
     width: 50%;
 }
 #about_img{
-    width: 100%;
+    width: 150%;
 }
 .icon_fot{
     width: 40px;

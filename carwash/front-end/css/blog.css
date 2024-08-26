@@ -148,7 +148,7 @@ body{
 /* ----------------------------------------------estilos del banner inicial--------------------------------------- */
 .home{
     height: 50vh;
-    background-image: url("../img/galeria/DSC00088.jpg");
+    background-image: url("../img/galeria/cw-8.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -375,7 +375,7 @@ body{
     width: 50%;
 }
 #about_img{
-    width: 100%;
+    width: 150%;
 }
 .icon_fot{
     width: 40px;

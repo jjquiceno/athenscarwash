@@ -112,8 +112,8 @@ html{
 }
 
 .logo{
-    margin-top: 6px;
-    width: 50px;
+    /* margin-top: 6px; */
+    width: 100px;
 }
 .nav_box{
     height: fit-content;
