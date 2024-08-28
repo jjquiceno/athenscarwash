@@ -443,6 +443,8 @@ html{
 @media screen and (max-width: 430px) {
     .relativeposition{
         height: 70vh;
+        /* border: solid black; */
+        
     }
     .ms-text-vs{
         font-size: 1.6rem;
@@ -460,8 +462,12 @@ html{
     .athens{
         display: none;
     }
-    
 }
-@media screen and (max-width: 370px){
-    
+@media screen and (max-width: 400px){
+    .relativeposition{
+        height: 100vh;
+    }
+    .tittles{
+        font-size: 3.3rem;
+    }
 }
