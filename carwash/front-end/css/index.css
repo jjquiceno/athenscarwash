@@ -407,15 +407,13 @@ body{
     transition: .2s;
     color: #d7c6ac;
 }
-#rightpos{
-    align-items: center;
-}
 #rightpos a{
-    width: 50%;
+    width: 100%;
 }
 #about_img{
-    width: 150%;
+    width: 100%;
 }
+
 .icon_fot{
     width: 40px;
     height: auto;

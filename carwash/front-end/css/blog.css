@@ -155,10 +155,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 3px solid black; */
 }
 .info-letras{
-    /* border: solid black; */
     width: fit-content;
     height: fit-content;
     padding: 20px;
@@ -179,7 +177,6 @@ body{
 
 /* ---------------------------------------------------estilos de las entradas-------------------------------------------- */
 .entradas-container{
-    /* border: solid black; */
     width: 100%;
     height: 120vh;
 }
@@ -187,7 +184,6 @@ body{
     height: 100%;
     width: 95%;
     margin: auto;
-    /* border: solid blue; */
 }
 .newstext{
     border-bottom: 1px solid #231f20;
@@ -199,9 +195,6 @@ body{
     font-size: 3rem;
     color: #ff0000;
 }
-/* .entradas-int{
-    border: solid yellow;
-} */
 .container-grid{
     display: grid;
     grid-template-columns: 30% 30% 30%;
@@ -307,7 +300,6 @@ body{
 }
 /* ----------------------------------------------------estilos del fotter------------------------------------------------ */
 .fotter{
-    /* border: solid black; */
     height: 40vh;
     width: 100%;
     background-color: #231f20;
@@ -317,7 +309,6 @@ body{
     color: white ;
 }
 .fotter-flex{
-    /* border: solid blue; */
     width: 98%;
     height: 98%;
     display: flex;
@@ -325,10 +316,8 @@ body{
     align-items: center;
 }
 .fot_int{
-    /* border: solid yellow; */
     width: 25%;
     height: 100%;
-
 }
 .mini_about,
 .mini_contact,
@@ -340,9 +329,7 @@ body{
     flex-direction: column;
     justify-content: center;
     gap: 5px;
-    /* align-items: flex-start; */
     font-family: jet-light;
-    /* border: solid blue; */
 }
 
 .mini_contact,
@@ -356,8 +343,6 @@ body{
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
-    /* border: solid yellow; */
-
 }
 .info_contact_fot a{
     text-decoration: none;
@@ -369,15 +354,14 @@ body{
     transition: .2s;
     color: #d7c6ac;
 }
-#rightpos{
-    align-items: center;
-}
+
 #rightpos a{
-    width: 50%;
+    width: 100%;
 }
 #about_img{
-    width: 150%;
+    width: 100%;
 }
+
 .icon_fot{
     width: 40px;
     height: auto;
@@ -439,5 +423,14 @@ body{
     }
     .info-letras{
         width: 70%;
+    }
+    #sized{
+        font-size: 1rem;
+    }
+    .text-hb{
+        height: fit-content;
+    }
+    .relativeposition{
+        height: 100vh;
     }
 }
