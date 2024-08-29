@@ -178,7 +178,8 @@ body{
 /* ---------------------------------------------------estilos de las entradas-------------------------------------------- */
 .entradas-container{
     width: 100%;
-    height: 120vh;
+    height: 80vh;
+    /* border: solid black; */
 }
 .entradas-container-int{
     height: 100%;

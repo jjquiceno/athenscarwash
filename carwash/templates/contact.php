@@ -30,10 +30,10 @@
             <div class="preliminar-detalle">
                 <div class="flex-flex">
                     <div>
-                        <a target="_blank" href="https://www.instagram.com/solida360_?igsh=MWFlZW9iaTJ0N3NuMQ%3D%3D"><img class="redes" src="../front-end/img/iconos/ig.png" alt=""></a>
+                        <a target="_blank" href="https://www.instagram.com/athensautowash?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img class="redes" src="../front-end/img/iconos/ig.png" alt=""></a>
                     </div>
                     <div>
-                        <a target="_blank" href="https://www.facebook.com/?locale=es_LA"><img class="redes" src="../front-end/img/iconos/facebook.png" alt=""></a>
+                        <a target="_blank" href="https://www.facebook.com/athenswash"><img class="redes" src="../front-end/img/iconos/facebook.png" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -156,10 +156,6 @@
                     </div>
                     <div class="boxi">
                         <div class="info_contact_fot">
-                            <img class="icon_fot" src="../front-end/img/iconos/cofee.png" alt="">
-                            <p>Complementary Coffee</p>
-                        </div>
-                        <div class="info_contact_fot">
                             <img class="icon_fot" src="../front-end/img/iconos/snacks.png" alt="">
                             <p>Snacks & Beverage Available for Sale</p>
                         </div>
@@ -199,11 +195,11 @@
                     <div class="boxi">
                         <div class="info_contact_fot">
                             <img class="icon_fot" src="../front-end/img/iconos/facebook.png" alt="">
-                            <a href="https://www.facebook.com/duluthcarwash" target="_blank">Facebook</a>
+                            <a href="https://www.facebook.com/athenswash" target="_blank">Facebook</a>
                         </div>
                         <div class="info_contact_fot">
                             <img class="icon_fot" src="../front-end/img/iconos/ig.png" alt="">
-                            <a href="https://www.instagram.com/duluthcarwash_valvoline_lube?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a>
+                            <a href="https://www.instagram.com/athensautowash?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a>
                         </div>
                     </div>
                     
@@ -224,7 +220,7 @@ if (isset($_POST["enviar"])) {
     $subject = $_POST["subject"];
     $messaje = $_POST["messaje"];
 
-    $destinatario = "quicenolondonoj@gmail.com";
+    $destinatario = "athensautowash@gmail.com";
 
     $content = "Messaje from the Athens Car Wash website of: $name \n";
     $content .= "Email: $email \n";
