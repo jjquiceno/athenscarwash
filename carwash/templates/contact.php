@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="icon" href="../front-end/img/iconos/logo.jpg">
+    <link rel="icon" href="../front-end/img/iconos/ATHENS-LOGO.jpg">
     <link rel="stylesheet" href="../front-end/css/contact.css">
     <link rel="stylesheet" href="../front-end/css/menu.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
@@ -145,7 +145,7 @@
             <div class="fot_int">
                 <div class="mini_about" id="rightpos">  
                     <a href="index.html">
-                        <img id="about_img" src="../front-end/img/galeria/Athens-Car-Wash-Logo-FINAL.png" alt="Logo of a car wash with various disinfection, cleaning, and maintenance services">
+                        <img id="about_img" src="../front-end/img/iconos/ATHENS-LOGO.jpg" alt="Logo of a car wash with various disinfection, cleaning, and maintenance services">
                     </a>
                 </div>
             </div>
