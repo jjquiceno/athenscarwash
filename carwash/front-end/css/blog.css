@@ -47,11 +47,9 @@ body{
 .preliminar_int{
     display: flex;
     justify-content: space-between;
-    /* border: solid black; */
     width: 90%;
 }
 .preliminar-detalle{
-    /* border: solid black; */
     display: flex;
     width: 20%;
     justify-content: space-around;
@@ -62,18 +60,15 @@ body{
     width: 40%;
 }
 .ancho1-caja{
-    /* border: solid black; */
     display: flex;
     align-items: center;
     font-family: jet-light;
 }
 .redes{
     width: 50px;
-    /* border: solid black; */
 }
 .flex-flex{
     display: flex;
-    /* border: solid black; */
 }
 /* ------------------------------------------------------estilos del header---------------------------------------------------- */
 .header{
@@ -111,7 +106,6 @@ body{
     width: fit-content;
     height: fit-content;
 }
-
 .logo{
     margin-top: 6px;
     width: 50px;
@@ -179,7 +173,6 @@ body{
 .entradas-container{
     width: 100%;
     height: 80vh;
-    /* border: solid black; */
 }
 .entradas-container-int{
     height: 100%;
@@ -206,7 +199,6 @@ body{
     color: black;
 }
 .entradas{
-    /* border: solid red; */
     margin-bottom: 20px;
     position: relative;
     transition: .5s;
@@ -223,10 +215,10 @@ body{
 .entradas-texts h3{
     transition: .3s;
 }
-.entradas:hover{
+/* .entradas:hover{
     transition: .5s;
     box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.096);
-}
+} */
 .entradas:hover .entradas-texts h3{
     color: #d7c6ac;
     transition: .3s;
@@ -236,7 +228,6 @@ body{
     width: 50%;
     margin-top: 5px;
 }
-
 /* ------------------------------------------------------estilos de la galeria--------------------------------------------- */
 .gallery{
     margin-top: 40px;

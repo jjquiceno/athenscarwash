@@ -56,7 +56,7 @@
                             <li class="option ham-option"><a href="../index.html">HOME</a></li>
                             <li class="option ham-option"><a href="about.html">ABOUT</a></li>
                             <li class="option ham-option"><a href="serviop2.html">SERVICES</a></li>
-                            <li class="option ham-option"><a href="membreships.html">MEMBERSHIPS</a></li>
+                            <li class="option ham-option"><a href="membresias.html">MEMBERSHIPS</a></li>
                             <li class="option ham-option"><a href="blog.html">BLOG</a></li>
                             <li><a class="position ham-position" href="contact.php">CONTACT</a></li>
                         </ul>
@@ -69,7 +69,7 @@
                                 <li class="option ham-option"><a href="../index.html">HOME</a></li>
                                 <li class="option ham-option"><a href="about.html">ABOUT</a></li>
                                 <li class="option ham-option"><a href="serviop2.html">SERVICES</a></li>
-                                <li class="option ham-option"><a href="membreships.html">MEMBERSHIPS</a></li>
+                                <li class="option ham-option"><a href="membresias.html">MEMBERSHIPS</a></li>
                                 <li class="option ham-option"><a href="blog.html">BLOG</a></li>
                                 <li><a class="position ham-position" href="contact.php">CONTACT</a></li>
                             </ul>
