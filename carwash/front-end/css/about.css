@@ -85,7 +85,7 @@ html{
     width: 87%;
     background-color: white;
     box-shadow: 0 0 30px 3px rgba(0, 0, 0, 0.096);
-    background-color: #231f20;
+    background-color: #171516;
     color: white;
 }
 .logo_int{
@@ -320,7 +320,7 @@ html{
     /* border: solid black; */
     height: 40vh;
     width: 100%;
-    background-color: #231f20;
+    background-color: #171516;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -379,13 +379,15 @@ html{
     transition: .2s;
     color: #d7c6ac;
 }
+#rightpos{
+    align-items: center;
+}
 #rightpos a{
-    width: 100%;
+    width: 50%;
 }
 #about_img{
     width: 100%;
 }
-
 .icon_fot{
     width: 40px;
     height: auto;

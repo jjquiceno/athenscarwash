@@ -84,7 +84,7 @@ html{
     width: 87%;
     background-color: white;
     box-shadow: 0 0 30px 3px rgba(0, 0, 0, 0.096);
-    background-color: #231f20;
+    background-color: #171516;
     color: white;
 }
 .logo_int{
@@ -112,7 +112,6 @@ html{
 }
 
 .logo{
-    /* margin-top: 6px; */
     width: 100px;
 }
 .nav_box{

@@ -10,10 +10,10 @@
 }
 ::-webkit-scrollbar-thumb{
     border-radius: 10px;
-    background-color: #231f20;
+    background-color: #171516;
     
 }
 ::-webkit-scrollbar-thumb:hover{
     cursor: pointer;
-    background-color: #231f20;
+    background-color: #171516;
 }
